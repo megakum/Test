@@ -1,0 +1,13 @@
+# folder logs
+logs/
+
+# txt-files
+docs/*.txt
+
+
+# .idea
+.idea/*
+# .rej
+*.rej
+
+
